@@ -41,5 +41,6 @@ The **Advanced Stock Market Analyzer** is a powerful tool designed to provide re
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/username/stock-market-analyzer.git
+   git clone https://github.com/Murugesh1804/Stock-analyser.git
    cd stock-market-analyzer
+   streamlit rum app.py
